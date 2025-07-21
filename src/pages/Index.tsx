@@ -14,7 +14,6 @@ const Index = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="text-center lg:text-left">
               <h1 className="text-4xl md:text-6xl font-bold mb-6">
-                <span className="text-2xl md:text-4xl block mb-4">HEVSR</span>
                 Сервис будущего для 
                 <span className="block bg-gradient-to-r from-green-300 to-blue-300 bg-clip-text text-transparent">
                   электромобилей

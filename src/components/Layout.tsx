@@ -23,14 +23,10 @@ const Layout = () => {
           <nav className="flex justify-between items-center">
             <Link to="/" className="flex items-center space-x-3">
               <img 
-                src="https://cdn.poehali.dev/files/30afe1c8-cac5-4e97-bb41-e1f963c07558.jpg" 
+                src="https://cdn.poehali.dev/files/30e0fc6c-d03e-4aaa-90af-f2dc55b43caf.png" 
                 alt="HEVSR Logo" 
-                className="h-10 w-auto"
+                className="h-12 w-auto"
               />
-              <div>
-                <div className="text-xl font-bold text-gray-900">HEVSR</div>
-                <div className="text-sm text-gray-600">Автосервис будущего</div>
-              </div>
             </Link>
 
             {/* Desktop Navigation */}
@@ -112,14 +108,10 @@ const Layout = () => {
             <div className="col-span-1">
               <Link to="/" className="flex items-center space-x-3 mb-4">
                 <img 
-                  src="https://cdn.poehali.dev/files/30afe1c8-cac5-4e97-bb41-e1f963c07558.jpg" 
+                  src="https://cdn.poehali.dev/files/30e0fc6c-d03e-4aaa-90af-f2dc55b43caf.png" 
                   alt="HEVSR Logo" 
-                  className="h-10 w-auto"
+                  className="h-12 w-auto"
                 />
-                <div>
-                  <div className="text-xl font-bold">HEVSR</div>
-                  <div className="text-sm text-gray-400">Автосервис будущего</div>
-                </div>
               </Link>
               <p className="text-gray-400 text-sm leading-relaxed">
                 Профессиональный ремонт и обслуживание гибридных и электрических автомобилей 
