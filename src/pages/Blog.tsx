@@ -78,7 +78,7 @@ const Blog = () => {
       <section className="bg-gradient-to-r from-blue-600 to-green-500 text-white py-16">
         <div className="container mx-auto px-4">
           <div className="max-w-3xl mx-auto text-center">
-            <h1 className="text-5xl font-bold mb-6">Блог HybridTech</h1>
+            <h1 className="text-5xl font-bold mb-6">Блог HEVSR</h1>
             <p className="text-xl text-blue-100 leading-relaxed">
               Экспертные статьи, советы и новости из мира электромобилей. 
               Полезная информация для владельцев и будущих покупателей.

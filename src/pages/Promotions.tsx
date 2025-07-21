@@ -282,7 +282,7 @@ const Promotions = () => {
         <div className="container mx-auto px-4">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
-              <h2 className="text-3xl font-bold mb-6">Программа лояльности HybridTech</h2>
+              <h2 className="text-3xl font-bold mb-6">Программа лояльности HEVSR</h2>
               <p className="text-xl text-gray-400 mb-8">
                 Становитесь постоянным клиентом и получайте дополнительные скидки 
                 и привилегии при каждом обращении.

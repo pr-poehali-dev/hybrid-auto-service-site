@@ -20,10 +20,10 @@ const Contacts = () => {
     },
     {
       title: "Email",
-      value: "info@hybridtech.ru",
+      value: "info@hevsr.ru",
       description: "Ответим в течение часа",
       icon: "Mail",
-      action: "mailto:info@hybridtech.ru"
+      action: "mailto:info@hevsr.ru"
     },
     {
       title: "Адрес",

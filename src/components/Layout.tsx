@@ -22,11 +22,13 @@ const Layout = () => {
         <div className="container mx-auto px-4 py-4">
           <nav className="flex justify-between items-center">
             <Link to="/" className="flex items-center space-x-3">
-              <div className="w-10 h-10 bg-gradient-to-r from-blue-600 to-green-500 rounded-lg flex items-center justify-center">
-                <Icon name="Zap" size={24} className="text-white" />
-              </div>
+              <img 
+                src="https://cdn.poehali.dev/files/30afe1c8-cac5-4e97-bb41-e1f963c07558.jpg" 
+                alt="HEVSR Logo" 
+                className="h-10 w-auto"
+              />
               <div>
-                <div className="text-xl font-bold text-gray-900">HybridTech</div>
+                <div className="text-xl font-bold text-gray-900">HEVSR</div>
                 <div className="text-sm text-gray-600">Автосервис будущего</div>
               </div>
             </Link>
@@ -109,11 +111,13 @@ const Layout = () => {
             {/* Company Info */}
             <div className="col-span-1">
               <Link to="/" className="flex items-center space-x-3 mb-4">
-                <div className="w-10 h-10 bg-gradient-to-r from-blue-600 to-green-500 rounded-lg flex items-center justify-center">
-                  <Icon name="Zap" size={24} className="text-white" />
-                </div>
+                <img 
+                  src="https://cdn.poehali.dev/files/30afe1c8-cac5-4e97-bb41-e1f963c07558.jpg" 
+                  alt="HEVSR Logo" 
+                  className="h-10 w-auto"
+                />
                 <div>
-                  <div className="text-xl font-bold">HybridTech</div>
+                  <div className="text-xl font-bold">HEVSR</div>
                   <div className="text-sm text-gray-400">Автосервис будущего</div>
                 </div>
               </Link>
@@ -171,7 +175,7 @@ const Layout = () => {
                 <div className="flex items-start space-x-3">
                   <Icon name="Mail" size={16} className="text-blue-400 mt-1" />
                   <div>
-                    <div className="text-white">info@hybridtech.ru</div>
+                    <div className="text-white">info@hevsr.ru</div>
                     <div className="text-gray-400">Ответим в течение часа</div>
                   </div>
                 </div>
@@ -181,7 +185,7 @@ const Layout = () => {
 
           <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
             <div className="text-gray-400 text-sm">
-              © 2024 HybridTech. Все права защищены.
+              © 2024 HEVSR. Все права защищены.
             </div>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <a href="#" className="text-gray-400 hover:text-white transition-colors">
